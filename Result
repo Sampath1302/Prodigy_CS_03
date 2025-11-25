@@ -1,0 +1,16 @@
+Password Complexity Checker
+(Input is hidden; press Enter to submit)
+Enter password to evaluate: ··········
+Password Assessment
+-------------------
+Password (masked): ***path
+Length: 7
+Contains: lowercase, uppercase
+Estimated entropy (Shannon): 17.65 bits
+Estimated entropy (charset): 39.9 bits
+Score: 38.1 / 100  -> Weak
+Suggestions:
+ - Use a longer password (12+ characters recommended).
+ - Include digits (0-9).
+ - Include special characters (e.g., !@#$%^&*()).
+ - Consider a passphrase (multiple unrelated words) or a password manager.
